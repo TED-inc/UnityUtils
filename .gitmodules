@@ -1,0 +1,18 @@
+[submodule "ProjectPrefs"]
+	path = ProjectPrefs
+	url = https://github.com/TED-inc/UnityUtils-ProjectPrefs.git
+[submodule "Components"]
+	path = Components
+	url = https://github.com/TED-inc/UnityUtils-Components.git
+[submodule "Json"]
+	path = Json
+	url = https://github.com/TED-inc/UnityUtils-Json.git
+[submodule "MathExt"]
+	path = MathExt
+	url = https://github.com/TED-inc/UnityUtils-MathExt.git
+[submodule "PersistantSave"]
+	path = PersistantSave
+	url = https://github.com/TED-inc/UnityUtils-PersistantSave.git
+[submodule "Encryption"]
+	path = Encryption
+	url = https://github.com/TED-inc/UnityUtils-Encryption.git
